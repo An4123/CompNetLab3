@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/GitHub Repos/CompNetworking Lab 3/Functions.h
+MinTree.h
+D:/GitHub Repos/CompNetworking Lab 3/MinTree.h
+
+D:/GitHub Repos/CompNetworking Lab 3/MinTree.h
+iomanip
+-
+ctime
+-
+iostream
+-
+fstream
+-
+string
+-
+iostream
+-
+string
+-
+
+D:/GitHub Repos/CompNetworking Lab 3/main.cpp
+MinTree.h
+D:/GitHub Repos/CompNetworking Lab 3/MinTree.h
+Functions.h
+D:/GitHub Repos/CompNetworking Lab 3/Functions.h
+
